@@ -1,0 +1,5 @@
+/.vscode
+/company_dim (2).csv
+/job_postings_fact (2).csv
+/skills_dim (1).csv
+/skills_job_dim (2).csv
